@@ -1,0 +1,144 @@
+body{
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 200px;
+}
+.marry{
+    font-size: 40px;
+    font-weight: 700;
+}
+.primary-color{
+    color: #FD6E0A;;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+ul li{
+    margin-right: 50px;
+
+}
+li a{
+    text-decoration: none;
+    margin-right: 10px;
+}
+.primary-btn{
+    padding: 5px 10px;
+    font-size: 30px;
+    background-color: #FD6E0A;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin: 7px;
+
+}
+header{
+    background-color: #FFF8F3;
+    
+}
+.navber{
+    padding: 30px 30px 30px 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.hii{
+    font-size: 30px;
+    color: gray;
+    font-weight: 700;
+    bottom: 0;
+}
+.taitle{
+    font-size: 60px;
+    font-weight: 700;
+    margin-top: 5px;
+}
+.navber img{
+   margin-top: auto;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+main section{
+    margin-top: 130px;
+}
+
+.about{
+    padding: 130px;
+    border-radius: 10px;
+    margin: 130px 0;
+    background-color: #FFF8F3;
+}
+.about-sec{
+    display: flex;
+    justify-content: space-between;
+}
+.section-taitle{
+    text-align: center;
+
+   
+}
+.section-p{
+    text-align: center;
+   
+}
+.about-info{
+    text-align: center;
+}
+.skill-container{
+    display: flex;
+    gap: 25px;
+}
+.skill{
+    padding: 30px;
+    border-radius: 5px;
+    background-color: #ebc3a5;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.samary{
+    text-align: center;
+    
+}
+
+
+.resumy-box{
+    display: flex;
+    gap: 30px;
+}
+.resumy-ins,.resumy-p{
+color: #757575;
+}
+.download{
+    text-align: center;
+}
+footer{
+    display: flex;
+    gap: 100px;
+    padding: 130px 200px;
+    background-color: #ebc3a5;
+    margin-top: 130px;
+}
+.footer-colum{
+    width: 50%;
+}
+.contract input{
+    display: block;
+    margin-bottom: 15px;
+    padding: 18px 35px;
+    border-radius: 5px;
+    border: none;
+    
+}
+
+
